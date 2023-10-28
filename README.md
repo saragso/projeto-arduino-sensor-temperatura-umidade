@@ -9,7 +9,7 @@ Para a realização do projeto, serão necessários três componentes principais
 - 3 Cabos jumper macho-fêmea
 
 ## Realização do projeto
-A montagem do projeto foi bem simples, visto que é preciso apenas conectar o Sensor DHT11 no Arduino através dos cabos Jumper macho-fêmea. A imagem a seguir mostra o sistema montado:
+A montagem do projeto foi bem simples, visto que é preciso apenas conectar o Sensor DHT11 no Arduino através dos cabos Jumper macho-fêmea. Um dos cabos foi conectado ao pino de alimentação 5V, outro ao pino de alimentação GND e o último ao pino analógico A2. A imagem a seguir mostra o sistema montado:
 
 ![Projeto montado](imagens/fotoprojeto.png)
 
