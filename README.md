@@ -13,6 +13,9 @@ A montagem do projeto foi bem simples, visto que é preciso apenas conectar o Se
 
 ![Projeto montado](imagens/fotoprojeto.png)
 
+O vídeo do projeto pode ser visto em: ![vídeo do projeto](https://youtu.be/J52UiWXnP_I?si=vBsUd7QAP9Tpoo-7)
+
+
 ## Conclusão
 Com isso, concui-se que o o projeto em questão oferece uma solução prática e educativa para medir a temperatura e umidade em tempo real usando o sensor DHT11 e um Arduino. O código apresentado permite a leitura desses dados, que são exibidos no monitor serial. Além disso, o projeto tem potencial para aplicações avançadas. Em suma, esse projeto é um excelente ponto de partida para aprender sobre sensores e microcontroladores, oferecendo oportunidades de expansão e aplicação em diversos cenários.
 
