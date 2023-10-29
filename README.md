@@ -13,7 +13,7 @@ A montagem do projeto foi bem simples, visto que é preciso apenas conectar o Se
 
 ![Projeto montado](imagens/fotoprojeto.png)
 
-O vídeo do projeto pode ser visto em: ![vídeo do projeto](https://youtu.be/J52UiWXnP_I?si=vBsUd7QAP9Tpoo-7)
+O vídeo do projeto pode ser visto em: <https://youtu.be/J52UiWXnP_I?si=vBsUd7QAP9Tpoo-7>
 
 
 ## Conclusão
